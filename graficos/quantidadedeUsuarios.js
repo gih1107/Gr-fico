@@ -1,5 +1,5 @@
 
-import { getCSS } from "./common.js"
+import { getCSS } from "./commun.js"
 
 async function quantidadeUsuariosPorRede() {
     const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/numero-usuarios.json'
